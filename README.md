@@ -6,6 +6,12 @@
 
 <html>
 <body>
-<h1>hello</h1>
+  
+  <h1>hello</h1>
+
+  <script defer>
+    document.write('hello, world!');
+  </script>
+  
 </body>
 </html>
