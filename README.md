@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on a game engine using OpenGL or Vulkan and C++
 - 📫 How to reach me: idk, figure it out
 
-<h1 style="float:left;">gaming</h1>
+<h1 style="float:right;">gaming</h1>
