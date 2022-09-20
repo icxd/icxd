@@ -4,14 +4,10 @@
 - 💞️ I’m looking to collaborate on a game engine using OpenGL or Vulkan and C++
 - 📫 How to reach me: idk, figure it out
 
-<html>
-<body>
-  
-  <h1>hello</h1>
+<style>
+.gaming {
+  float: left;
+}
+</style>
 
-  <script defer>
-    document.write('hello, world!');
-  </script>
-  
-</body>
-</html>
+<h1 class="gaming">gaming</h1>
