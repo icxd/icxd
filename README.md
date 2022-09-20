@@ -3,5 +3,3 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on a game engine using OpenGL or Vulkan and C++
 - 📫 How to reach me: idk, figure it out
-
-<h1 float="right">gaming</h1>
