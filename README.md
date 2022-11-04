@@ -1,6 +1,6 @@
 # 👋 Hi, I’m icxd
 
-What am i even supposed to write here like, I'm supposed to like write shit about my self but the thing is, I don't have a very interesting life so I'm just not gonna write anything, well I guess I did write something here so yeah, epic.
+I'm 16 years old and I enjoy programming quite a lot. I code in many different languages such as Java, Python and C++, but I mainly use Java at the moment. I've been coding for about 8 years now (Yeah I know I don't have a life lmao). 
 
 ---
 
