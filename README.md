@@ -1,6 +1,6 @@
 # 👋 Hi, I’m icxd
 
-I'm 16 years old and I enjoy programming quite a lot. I know way too many programming languages to count
+I'm 17 years old and I enjoy programming quite a lot. I know way too many programming languages to count
 
 ---
 
